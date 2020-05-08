@@ -13,6 +13,8 @@
 		008366432464A95A0017573C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 008366412464A95A0017573C /* Main.storyboard */; };
 		008366452464A95B0017573C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 008366442464A95B0017573C /* Assets.xcassets */; };
 		008366482464A95B0017573C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 008366462464A95B0017573C /* LaunchScreen.storyboard */; };
+		008366502464C9010017573C /* Building.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0083664F2464C9010017573C /* Building.swift */; };
+		008366522464D6420017573C /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 008366512464D6420017573C /* Alert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		008366442464A95B0017573C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		008366472464A95B0017573C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		008366492464A95B0017573C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0083664F2464C9010017573C /* Building.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Building.swift; sourceTree = "<group>"; };
+		008366512464D6420017573C /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				0083663B2464A95A0017573C /* AppDelegate.swift */,
 				0083663D2464A95A0017573C /* SceneDelegate.swift */,
 				0083663F2464A95A0017573C /* ViewController.swift */,
+				0083664F2464C9010017573C /* Building.swift */,
+				008366512464D6420017573C /* Alert.swift */,
 				008366412464A95A0017573C /* Main.storyboard */,
 				008366442464A95B0017573C /* Assets.xcassets */,
 				008366462464A95B0017573C /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				008366402464A95A0017573C /* ViewController.swift in Sources */,
 				0083663C2464A95A0017573C /* AppDelegate.swift in Sources */,
 				0083663E2464A95A0017573C /* SceneDelegate.swift in Sources */,
+				008366522464D6420017573C /* Alert.swift in Sources */,
+				008366502464C9010017573C /* Building.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
